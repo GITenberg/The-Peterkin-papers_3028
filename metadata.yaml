@@ -1,0 +1,28 @@
+_repo: The-Peterkin-papers_3028
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hale, Lucretia P. (Lucretia Peabody)
+    alias: Hale, Lucretia Peabody
+    birthdate: 1820
+    deathdate: 1900
+    gutenberg_agent_id: '1092'
+    url: http://www.gutenberg.org/2009/agents/1092
+    wikipedia: http://en.wikipedia.org/wiki/Lucretia_Peabody_Hale
+description: ''
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3028'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcc 'PZ'
+- !lcsh 'Family life -- Juvenile fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Peterkin papers
+url: http://www.gutenberg.org/ebooks/3028
